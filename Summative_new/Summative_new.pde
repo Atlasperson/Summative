@@ -1,7 +1,7 @@
 //https://github.com/mmoub1/Summative.git
 Enemies[] myEnemies = new Enemies[4]; //creating enemy class
-float xPos = 200; //user x positon
-float yPos = 200; //user y position
+float xPos = 280; //user x positon
+float yPos = 270; //user y position
 float Speed = 2.5; //user's speed
 boolean Up = false; //user's direction statements
 boolean Down = false;
